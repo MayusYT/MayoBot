@@ -1,2 +1,4 @@
 # MayoBot.py
-A shitty discord bot for my discord server.
+A discord bot with support for versatile modules.
+
+See https://github.com/realmayus/MayoBot-modules for available modules.
