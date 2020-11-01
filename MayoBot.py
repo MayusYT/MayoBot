@@ -7,8 +7,9 @@ from discord.ext import commands
 from Config import get_token, get_module_names, get_modules
 from CoreCog import CoreCog
 
-
-bot = commands.Bot(command_prefix='?')
+intents = discord.Intents.default()  # All but the two privileged ones
+intents.members = True  # Subscribe to the Members intent
+bot = commands.Bot(command_prefix='?', intents=intents)
 
 
 @bot.command()
