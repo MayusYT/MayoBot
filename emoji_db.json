@@ -968,6 +968,46 @@
         "url": "https://cdn.discordapp.com/emojis/810282638552203286.png"
     },
     {
+        "name": "joke",
+        "id": 729802670243577898,
+        "guild_id": 728971016935571557,
+        "guild_name": "German From Zero!",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/729802670243577898.png"
+    },
+    {
+        "name": "Wurst",
+        "id": 730135871713574962,
+        "guild_id": 728971016935571557,
+        "guild_name": "German From Zero!",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/730135871713574962.png"
+    },
+    {
+        "name": "wowee",
+        "id": 766002765595541504,
+        "guild_id": 728971016935571557,
+        "guild_name": "German From Zero!",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/766002765595541504.png"
+    },
+    {
+        "name": "doggowave",
+        "id": 775403975456849951,
+        "guild_id": 728971016935571557,
+        "guild_name": "German From Zero!",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/775403975456849951.png"
+    },
+    {
+        "name": "puck",
+        "id": 777645670785875972,
+        "guild_id": 728971016935571557,
+        "guild_name": "German From Zero!",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/777645670785875972.png"
+    },
+    {
         "name": "eggdog_tl",
         "id": 772461135126593556,
         "guild_id": 772455575820042260,
@@ -1382,45 +1422,5 @@
         "guild_name": "Japan Squad",
         "is_animated": true,
         "url": "https://cdn.discordapp.com/emojis/810161451335417886.gif"
-    },
-    {
-        "name": "joke",
-        "id": 729802670243577898,
-        "guild_id": 728971016935571557,
-        "guild_name": "German From Zero!",
-        "is_animated": false,
-        "url": "https://cdn.discordapp.com/emojis/729802670243577898.png"
-    },
-    {
-        "name": "Wurst",
-        "id": 730135871713574962,
-        "guild_id": 728971016935571557,
-        "guild_name": "German From Zero!",
-        "is_animated": false,
-        "url": "https://cdn.discordapp.com/emojis/730135871713574962.png"
-    },
-    {
-        "name": "wowee",
-        "id": 766002765595541504,
-        "guild_id": 728971016935571557,
-        "guild_name": "German From Zero!",
-        "is_animated": false,
-        "url": "https://cdn.discordapp.com/emojis/766002765595541504.png"
-    },
-    {
-        "name": "doggowave",
-        "id": 775403975456849951,
-        "guild_id": 728971016935571557,
-        "guild_name": "German From Zero!",
-        "is_animated": false,
-        "url": "https://cdn.discordapp.com/emojis/775403975456849951.png"
-    },
-    {
-        "name": "puck",
-        "id": 777645670785875972,
-        "guild_id": 728971016935571557,
-        "guild_name": "German From Zero!",
-        "is_animated": false,
-        "url": "https://cdn.discordapp.com/emojis/777645670785875972.png"
     }
 ]
