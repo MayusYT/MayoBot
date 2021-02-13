@@ -960,6 +960,14 @@
         "url": "https://cdn.discordapp.com/emojis/798889751431086081.png"
     },
     {
+        "name": "blobStop",
+        "id": 810282638552203286,
+        "guild_id": 564185633984348170,
+        "guild_name": "realverse",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/810282638552203286.png"
+    },
+    {
         "name": "eggdog_tl",
         "id": 772461135126593556,
         "guild_id": 772455575820042260,
