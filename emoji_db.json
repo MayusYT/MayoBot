@@ -960,6 +960,30 @@
         "url": "https://cdn.discordapp.com/emojis/798889751431086081.png"
     },
     {
+        "name": "ok",
+        "id": 746377326245445653,
+        "guild_id": 710595130012205138,
+        "guild_name": "Dev / Test",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/746377326245445653.png"
+    },
+    {
+        "name": "no",
+        "id": 746377326643773561,
+        "guild_id": 710595130012205138,
+        "guild_name": "Dev / Test",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/746377326643773561.png"
+    },
+    {
+        "name": "warning",
+        "id": 746377344393936997,
+        "guild_id": 710595130012205138,
+        "guild_name": "Dev / Test",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/746377344393936997.png"
+    },
+    {
         "name": "joke",
         "id": 729802670243577898,
         "guild_id": 728971016935571557,
@@ -1376,14 +1400,6 @@
         "url": "https://cdn.discordapp.com/emojis/806225132573294592.png"
     },
     {
-        "name": "roowide2",
-        "id": 806225132845531206,
-        "guild_id": 772455575820042260,
-        "guild_name": "Japan Squad",
-        "is_animated": false,
-        "url": "https://cdn.discordapp.com/emojis/806225132845531206.png"
-    },
-    {
         "name": "gasmr",
         "id": 809712305603346472,
         "guild_id": 772455575820042260,
@@ -1414,5 +1430,13 @@
         "guild_name": "Japan Squad",
         "is_animated": true,
         "url": "https://cdn.discordapp.com/emojis/810161451335417886.gif"
+    },
+    {
+        "name": "thonk",
+        "id": 817900241897652275,
+        "guild_id": 772455575820042260,
+        "guild_name": "Japan Squad",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/817900241897652275.png"
     }
 ]
