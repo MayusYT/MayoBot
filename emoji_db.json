@@ -984,6 +984,38 @@
         "url": "https://cdn.discordapp.com/emojis/746377344393936997.png"
     },
     {
+        "name": "PreviousDictionary",
+        "id": 827613099128520766,
+        "guild_id": 710595130012205138,
+        "guild_name": "Dev / Test",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/827613099128520766.png"
+    },
+    {
+        "name": "NextPage",
+        "id": 827613099245830206,
+        "guild_id": 710595130012205138,
+        "guild_name": "Dev / Test",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/827613099245830206.png"
+    },
+    {
+        "name": "PreviousPage",
+        "id": 827613099480842280,
+        "guild_id": 710595130012205138,
+        "guild_name": "Dev / Test",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/827613099480842280.png"
+    },
+    {
+        "name": "NextDictionary",
+        "id": 827613099560402974,
+        "guild_id": 710595130012205138,
+        "guild_name": "Dev / Test",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/827613099560402974.png"
+    },
+    {
         "name": "joke",
         "id": 729802670243577898,
         "guild_id": 728971016935571557,
