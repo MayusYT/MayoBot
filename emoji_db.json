@@ -1232,14 +1232,6 @@
         "url": "https://cdn.discordapp.com/emojis/778346819917709353.png"
     },
     {
-        "name": "hahayes",
-        "id": 787773399321542677,
-        "guild_id": 772455575820042260,
-        "guild_name": "Japan Squad",
-        "is_animated": false,
-        "url": "https://cdn.discordapp.com/emojis/787773399321542677.png"
-    },
-    {
         "name": "HappyKebab",
         "id": 791091132692037653,
         "guild_id": 772455575820042260,
@@ -1470,5 +1462,53 @@
         "guild_name": "Japan Squad",
         "is_animated": false,
         "url": "https://cdn.discordapp.com/emojis/817900241897652275.png"
+    },
+    {
+        "name": "coffeekebab",
+        "id": 834283708608544798,
+        "guild_id": 772455575820042260,
+        "guild_name": "Japan Squad",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/834283708608544798.png"
+    },
+    {
+        "name": "lmao",
+        "id": 837031113187786752,
+        "guild_id": 824619566420197376,
+        "guild_name": "Steve Wars",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/837031113187786752.png"
+    },
+    {
+        "name": "tentacles",
+        "id": 837031598217887814,
+        "guild_id": 824619566420197376,
+        "guild_name": "Steve Wars",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/837031598217887814.png"
+    },
+    {
+        "name": "leonardoland_1",
+        "id": 837034865274781757,
+        "guild_id": 824619566420197376,
+        "guild_name": "Steve Wars",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/837034865274781757.png"
+    },
+    {
+        "name": "leonardoland_2",
+        "id": 837034880180682833,
+        "guild_id": 824619566420197376,
+        "guild_name": "Steve Wars",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/837034880180682833.png"
+    },
+    {
+        "name": "oui",
+        "id": 837035512501764178,
+        "guild_id": 824619566420197376,
+        "guild_name": "Steve Wars",
+        "is_animated": false,
+        "url": "https://cdn.discordapp.com/emojis/837035512501764178.png"
     }
 ]
